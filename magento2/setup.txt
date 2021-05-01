@@ -26,3 +26,7 @@ php bin/magento setup:install \
 bin/magento setup:store-config:set --base-url="http://local.domain.com"
 bin/magento setup:store-config:set --base-url-secure="http://local.domain.com"
 bin/magento cache:flush
+
+- Data login:
+Username: e9d70ba01269fa606f4299307b440d6e
+Password: d3131aae4fca28c2ba1b3308d40a920a
